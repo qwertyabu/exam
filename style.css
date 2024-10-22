@@ -1,0 +1,279 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.container {
+    padding: 0 100px;
+    max-width: 1940px;
+}
+
+.container-hijama {
+    max-width: 1940px;
+}
+
+.ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+    width: 800px;
+    left: 66px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.salom {
+    padding: 65px 288px 215px;
+}
+
+.l {
+    font-size: 20px;
+    color: black;
+}
+
+.l2 {
+    font-size: 20px;
+    color: red;
+}
+
+
+.button {
+    width: 189px;
+    padding: 12px 24px 12px 24px;
+    border-radius: 7px;
+    color: red;
+    border: 2px solid red;
+    background-color: white;
+}
+
+.img {
+    width: 200px;
+}
+
+.header-text {
+    display: flex;
+    gap: 30px;
+
+}
+
+.h1 {
+    width: 500px;
+    font-size: 20px;
+}
+
+.img1 {
+    width: 1980px;
+    position: relative;
+
+    background-repeat: no-repeat;
+}
+
+.wrapper {
+    background-image: url(photo_2024-10-22_12-24-23.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 533px;
+    justify-content: space-around;
+
+}
+
+.flexbox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.wrapper-left {
+    left: 869px;
+    padding: 40px;
+}
+
+.wrapper-reght {
+    gap: 40px;
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    margin: 20px;
+    color: white;
+}
+
+.button1 {
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+    padding: 20px;
+    background-color: #DE2E54;
+    border-radius: 8px;
+    border: none;
+    font-size: 15px;
+}
+
+.h1 {
+    width: 500px;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+.h2 {
+    text-align: center;
+    padding-bottom: 70px;
+    font-size: 34px;
+}
+
+
+.hijama {
+    width: 600px;
+    align-items: center;
+}
+
+.hijama > h4 {
+    margin-bottom: 25px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28.8px;
+    font-family: sans-serif;
+}
+
+.hijamap {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    font-family: sans-serif;
+}
+
+.flexbox2 {
+    flex-direction: row-reverse;
+}
+
+.sec2 {
+    width: 900px;
+    margin: 0 auto;
+}   
+
+.container2 {
+    max-width: 1940px;
+}
+
+.mb {
+    margin-bottom: 80px;
+}
+
+.div-input {
+    width: 500px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 13px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 50px;
+}
+
+.input {
+    box-sizing: border-box;
+    border: 1px solid rgb(222, 222, 222);
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+    width: 460px;
+    height: 39.11px;
+    padding: 1rem;
+}
+
+.border-box {
+    display: flex;
+    margin: 70px 150px;
+    gap: 80px;
+}
+
+
+.Contact {
+    text-align: center;
+    font-size: 50px;
+    padding: 30px;
+}
+
+.Hello {
+    background-color: #0EB4C1;
+    height: 569px;
+}
+
+.input-img {
+    width: 413px;
+}
+
+.button-input {
+    border-radius: 5px;
+    box-shadow: inset 0px -4px 0px 0px rgba(0, 0, 0, 0.09);
+    background: rgb(56, 204, 139);
+    width: 460px;
+    height: 39.11px;
+    border: none;
+}
+
+.conteiner2 {
+    width: 1940px;
+    margin: 0 auto;
+    background-color: aqua;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px 197px;
+    width: 100%;
+}
+
+.conteiner4 {
+    background-color: #222222;
+
+}
+
+.li2 {
+    font-family: "Open Sans";
+    font-size: 14px;
+    color: white;
+
+}
+
+.footer {
+    background: #222222;
+    max-width: 1940px;
+    height: 100px;
+    padding: 15px 0 0 150px;
+}
+
+.end {
+    display: flex;
+    gap: 750px;
+}
+
+.ul-two {
+    display: flex;
+    margin: 15px 0 0 0;
+    gap: 50px;
+}
+
+.li-red {
+    color: #DE2E54;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.li {
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+}
